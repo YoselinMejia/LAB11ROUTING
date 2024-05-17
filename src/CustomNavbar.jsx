@@ -6,7 +6,7 @@ import './styles.css';
 const CustomNavbar = ({ cities }) => {
     
   return (
-    <Navbar className="navbarcss" bg="light" expand="lg">
+    <Navbar className="navbarcss" expand="lg">
       <Navbar.Brand as={Link} to="/" className="navbar-css" >City Explorer</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
