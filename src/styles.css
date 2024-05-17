@@ -1,9 +1,22 @@
 
 body{
-    background-color:beige;
-    color:#1d1b1b;
+    background-color: #606c38 !important ;
+    color:#1d1b1b !important ;
 }
 
 .navbar-css {
     margin-left: 20px;
+    color:#283618 !important;
+    
+}
+
+.nav-link-custom {
+    margin-left: 20px;
+    color:#283618 !important;
+    
+}
+
+.navbarcss{
+    background-color: #fefae0 !important ;
+    
 }
